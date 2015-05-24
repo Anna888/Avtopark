@@ -25,3 +25,4 @@ begin
   readln;
    
 end.
+//CHANGES PROGRAMM GOOD ENGLISH
