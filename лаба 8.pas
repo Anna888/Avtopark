@@ -26,3 +26,4 @@ begin
    
 end.
 //CHANGES PROGRAMM GOOD ENGLISH
+//что-то прога ругается
